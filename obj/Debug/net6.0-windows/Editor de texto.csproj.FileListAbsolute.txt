@@ -1,0 +1,18 @@
+D:\C#\Parte 2\Editor de texto\Editor de texto\bin\Debug\net6.0-windows\Editor de texto.exe
+D:\C#\Parte 2\Editor de texto\Editor de texto\bin\Debug\net6.0-windows\Editor de texto.deps.json
+D:\C#\Parte 2\Editor de texto\Editor de texto\bin\Debug\net6.0-windows\Editor de texto.runtimeconfig.json
+D:\C#\Parte 2\Editor de texto\Editor de texto\bin\Debug\net6.0-windows\Editor de texto.dll
+D:\C#\Parte 2\Editor de texto\Editor de texto\bin\Debug\net6.0-windows\Editor de texto.pdb
+D:\C#\Parte 2\Editor de texto\Editor de texto\obj\Debug\net6.0-windows\Editor de texto.csproj.AssemblyReference.cache
+D:\C#\Parte 2\Editor de texto\Editor de texto\obj\Debug\net6.0-windows\Editor_de_texto.Form1.resources
+D:\C#\Parte 2\Editor de texto\Editor de texto\obj\Debug\net6.0-windows\Editor_de_texto.Properties.Resources.resources
+D:\C#\Parte 2\Editor de texto\Editor de texto\obj\Debug\net6.0-windows\Editor de texto.csproj.GenerateResource.cache
+D:\C#\Parte 2\Editor de texto\Editor de texto\obj\Debug\net6.0-windows\Editor de texto.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Parte 2\Editor de texto\Editor de texto\obj\Debug\net6.0-windows\Editor de texto.AssemblyInfoInputs.cache
+D:\C#\Parte 2\Editor de texto\Editor de texto\obj\Debug\net6.0-windows\Editor de texto.AssemblyInfo.cs
+D:\C#\Parte 2\Editor de texto\Editor de texto\obj\Debug\net6.0-windows\Editor de texto.csproj.CoreCompileInputs.cache
+D:\C#\Parte 2\Editor de texto\Editor de texto\obj\Debug\net6.0-windows\Editor de texto.dll
+D:\C#\Parte 2\Editor de texto\Editor de texto\obj\Debug\net6.0-windows\refint\Editor de texto.dll
+D:\C#\Parte 2\Editor de texto\Editor de texto\obj\Debug\net6.0-windows\Editor de texto.pdb
+D:\C#\Parte 2\Editor de texto\Editor de texto\obj\Debug\net6.0-windows\Editor de texto.genruntimeconfig.cache
+D:\C#\Parte 2\Editor de texto\Editor de texto\obj\Debug\net6.0-windows\ref\Editor de texto.dll
